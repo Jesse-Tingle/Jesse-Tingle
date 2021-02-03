@@ -13,7 +13,7 @@
 😄 Pronouns: She/Her <br>
 ⚡ Fun fact: I go rock climbing in my spare time. <br>
 
-<a href="https://linkedin.com/in/jessetingle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jessetingle" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jesse-tingle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jessetingle" height="30" width="40" /></a>
 
 <!--
 **Jesse-Tingle/Jesse-Tingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
