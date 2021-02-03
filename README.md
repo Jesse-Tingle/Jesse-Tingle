@@ -6,11 +6,11 @@
 
 
 🌱 I’m currently learning Python <br>
-👯 I’m looking to collaborate on Open Source
-💻 All of my projects are available at [https://github.com/jesse-tingle](https://github.com/jesse-tingle)
-📫 How to reach me: jtingle0@gmail.com
-😄 Pronouns: She/Her
-⚡ Fun fact: I go rock climbing in my spare time.
+👯 I’m looking to collaborate on Open Source <br>
+💻 All of my projects are available at [https://github.com/jesse-tingle](https://github.com/jesse-tingle) <br>
+📫 How to reach me: jtingle0@gmail.com <br>
+😄 Pronouns: She/Her <br>
+⚡ Fun fact: I go rock climbing in my spare time. <br>
 
 <!--
 **Jesse-Tingle/Jesse-Tingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
