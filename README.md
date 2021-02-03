@@ -1,4 +1,5 @@
 <h1 align="center">Hello, my name is Jesse Tingle</h1> 
+<h3>portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a></h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tingle&layout=compact" alt="jesse-tingle" /></p>
