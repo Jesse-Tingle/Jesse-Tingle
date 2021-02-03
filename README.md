@@ -1,6 +1,6 @@
 <span align="center">
   
- # Hello, I'm Jesse Tingle!
+ # Hello, I'm Jesse Tingle! :wave:
 
  ## I am a Software Engineer, from Kentucky.
 
