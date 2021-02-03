@@ -1,5 +1,4 @@
-<span align="center">
-Hello, I'm Jesse Tingle!
+<span align="center">Hello, I'm Jesse Tingle!
 
 I'm a Software Engineer, from Kentucky.
 
