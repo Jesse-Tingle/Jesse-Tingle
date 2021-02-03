@@ -5,7 +5,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesse-tingle&show_icons=true&theme=radical" alt="jesse-tingle" /></p>
 
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python <br>
 👯 I’m looking to collaborate on Open Source
 💻 All of my projects are available at [https://github.com/jesse-tingle](https://github.com/jesse-tingle)
 📫 How to reach me: jtingle0@gmail.com
