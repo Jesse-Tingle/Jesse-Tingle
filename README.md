@@ -1,8 +1,9 @@
-<span align="center">Hello, I'm Jesse Tingle!
+<span align="center">
+  Hello, I'm Jesse Tingle!
 
-I'm a Software Engineer, from Kentucky.
+  I'm a Software Engineer, from Kentucky.
 
-portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a>
+  portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a>
 </span>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tingle&layout=compact" alt="jesse-tingle" /></p>
