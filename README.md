@@ -1,6 +1,8 @@
 <h1 align="center">Hello, my name is Jesse Tingle</h1> 
+<h2>I'm a Software Engineer, from Kentucky.</h2>
 <h3 align="center">portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a></h3>
 <br>
+
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tingle&layout=compact" alt="jesse-tingle" /></p>
 <p><img  src="https://github-readme-stats.vercel.app/api?username=jesse-tingle&show_icons=true&theme=radical" alt="jesse-tingle" /></p>
