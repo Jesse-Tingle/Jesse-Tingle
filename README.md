@@ -18,6 +18,6 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/jesse-tingle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jessetingle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jesse-tingle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="jessetingle" height="30" width="40" /></a>
+<a href="mailto:jtingle0@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="jtingle0@gmail.com" height="30" width="40" /></a>
 
 
