@@ -13,6 +13,8 @@
 😄 Pronouns: She/Her <br>
 ⚡ Fun fact: I go rock climbing in my spare time. <br>
 
+<br>
+<br>
 <a href="https://linkedin.com/in/jesse-tingle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jessetingle" height="30" width="40" /></a>
 
 <!--
