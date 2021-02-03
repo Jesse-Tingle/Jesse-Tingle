@@ -1,6 +1,7 @@
 ### Hello, my name is Jesse Tingle 👋
 
-[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?jesse-tingle=jesse-tingle)](https://github.com/jesse-tingle/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tinglen&layout=compact" alt="jesse-tingle" /></p>
+
 🌱 I’m currently learning Python
 👯 I’m looking to collaborate on Open Source
 💻 All of my projects are available at [https://github.com/jesse-tingle](https://github.com/jesse-tingle)
