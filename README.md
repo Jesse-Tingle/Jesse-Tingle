@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Jesse Tingle</h1> 
-<h2>I'm a Software Engineer, from Kentucky.</h2>
+<h2 align="center">I'm a Software Engineer, from Kentucky.</h2>
 <h3 align="center">portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a></h3>
 <br>
 
