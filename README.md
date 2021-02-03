@@ -5,7 +5,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tingle&layout=compact" alt="jesse-tingle" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesse-tingle&show_icons=true&theme=radical" alt="jesse-tingle" /></p>
 
-
+<br>
 🌱 I’m currently learning Python <br>
 👯 I’m looking to collaborate on Open Source <br>
 💻 All of my projects are available at [https://github.com/jesse-tingle](https://github.com/jesse-tingle) <br>
