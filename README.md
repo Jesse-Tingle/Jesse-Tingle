@@ -11,12 +11,12 @@
 <p><img  src="https://github-readme-stats.vercel.app/api?username=jesse-tingle&show_icons=true&theme=radical" alt="jesse-tingle" /></p>
 
 <br>
-🌱 I’m currently learning Python <br>
-👯 I’m looking to collaborate on Open Source <br>
-💻 All of my projects are available at https://github.com/jesse-tingle <br>
-📫 How to reach me: jtingle0@gmail.com <br>
-😄 Pronouns: She/Her <br>
-⚡ Fun fact: I go rock climbing in my spare time. <br>
+🌱 I’m currently learning **Python** <br>
+👯 I’m looking to collaborate on **Open Source** <br>
+💻 All of my projects are available at **https://github.com/jesse-tingle** <br>
+📫 How to reach me: **jtingle0@gmail.com** <br>
+😄 Pronouns: **She/Her** <br>
+⚡ Fun fact: **I go rock climbing in my spare time.** <br>
 
 <br>
 <br>
