@@ -12,11 +12,11 @@
 
 <br>
 🌱 I’m currently learning <strong>Python</strong> <br>
-👯 I’m looking to collaborate on **Open Source** <br>
-💻 All of my projects are available at **https://github.com/jesse-tingle** <br>
-📫 How to reach me: **jtingle0@gmail.com** <br>
-😄 Pronouns: **She/Her** <br>
-⚡ Fun fact: **I go rock climbing in my spare time.** <br>
+👯 I’m looking to collaborate on <strong>Open Source</strong> <br>
+💻 All of my projects are available at <strong>https://github.com/jesse-tingle</strong> <br>
+📫 How to reach me: <strong>jtingle0@gmail.com</strong> <br>
+😄 Pronouns: <strong>She/Her</strong> <br>
+⚡ Fun fact: <strong>I go rock climbing in my spare time.</strong> <br>
 
 <br>
 <br>
