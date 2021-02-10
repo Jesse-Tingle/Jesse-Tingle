@@ -2,7 +2,7 @@
   
  # Hello, I'm Jesse Tingle! :wave:
 
- ## Software Engineer
+ # Software Engineer
 
  ### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a>
 </span>
