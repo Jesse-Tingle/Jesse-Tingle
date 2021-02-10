@@ -2,7 +2,7 @@
   
  # Hello, I'm Jesse Tingle! :wave:
 
- ## I am a Software Engineer, from Kentucky.
+ ## Software Engineer, from Kentucky.
 
  ### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a>
 </span>
