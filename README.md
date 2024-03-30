@@ -15,7 +15,7 @@
 👯 I’m looking to collaborate on <strong>Open Source</strong> <br>
 💻 All of my projects are available at <strong>https://github.com/jesse-tingle</strong> <br>
 📫 How to reach me: <strong>jtingle0@gmail.com</strong> <br>
-😄 Pronouns: <strong>She/Her</strong> <br>
+😄 Pronouns: <strong>They/Them</strong> <br>
 ⚡ Fun fact: <strong>I go rock climbing in my spare time.</strong> <br>
 
 <br>
