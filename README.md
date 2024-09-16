@@ -4,14 +4,14 @@
 
  ## Software Engineer
 
- ### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a>
+// ### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a>
 </span>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tingle&layout=compact" alt="jesse-tingle" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=jesse-tingle&show_icons=true&theme=radical" alt="jesse-tingle" /></p>
-
+<!-- <p><img  src="https://github-readme-stats.vercel.app/api?username=jesse-tingle&show_icons=true&theme=radical" alt="jesse-tingle" /></p>
+ -->
 <br>
-🌱 I’m currently learning <strong>Python</strong> <br>
+🌱 I’m currently learning <strong>Typescript</strong> <br>
 👯 I’m looking to collaborate on <strong>Open Source</strong> <br>
 💻 All of my projects are available at <strong>https://github.com/jesse-tingle</strong> <br>
 📫 How to reach me: <strong>jtingle0@gmail.com</strong> <br>
