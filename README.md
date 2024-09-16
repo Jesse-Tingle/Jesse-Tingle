@@ -4,7 +4,7 @@
 
  ## Software Engineer
 
-// ### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a>
+<!-- ### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a> -->
 </span>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tingle&layout=compact" alt="jesse-tingle" /></p>
