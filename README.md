@@ -7,12 +7,6 @@
 <!-- ### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a> -->
 </span>
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jesse-Tingle)](https://git.io/streak-stats)
-
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tingle&layout=compact" alt="jesse-tingle" /></p>
-<!-- <p><img  src="https://github-readme-stats.vercel.app/api?username=jesse-tingle&show_icons=true&theme=radical" alt="jesse-tingle" /></p>
- -->
 <br>
 🌱 I’m currently learning <strong>Typescript</strong> <br>
 👯 I’m looking to collaborate on <strong>Open Source</strong> <br>
@@ -20,6 +14,14 @@
 📫 How to reach me: <strong>jtingle0@gmail.com</strong> <br>
 😄 Pronouns: <strong>They/Them</strong> <br>
 ⚡ Fun fact: <strong>I go rock climbing in my spare time.</strong> <br>
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jesse-Tingle)](https://git.io/streak-stats)
+
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-tingle&layout=compact" alt="jesse-tingle" /></p>
+<!-- <p><img  src="https://github-readme-stats.vercel.app/api?username=jesse-tingle&show_icons=true&theme=radical" alt="jesse-tingle" /></p>
+ -->
+
 
 <br>
 <br>
