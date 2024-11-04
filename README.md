@@ -4,7 +4,7 @@
 
  ## Software Engineer
 
-<!-- ### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a> -->
+### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a>
 </span>
 
 ### :writing_hand: Latest Blog Post :
