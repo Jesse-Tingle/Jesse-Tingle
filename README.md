@@ -9,6 +9,7 @@
 
 ### :writing_hand: Latest Blog Post :
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Reasons You Should Check Out 100Devs](https://jesse-tingle.github.io/posts/Top-10-Reasons-You-Should-Check-Out-100Devs/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
