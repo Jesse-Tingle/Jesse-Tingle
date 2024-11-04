@@ -7,6 +7,10 @@
 <!-- ### Portfolio: <a href="https://www.jessetingle.com">jessetingle.com</a> -->
 </span>
 
+### :writing_hand: Latest Blog Post :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <br>
 🌱 I’m currently learning <strong>Typescript</strong> <br>
 👯 I’m looking to collaborate on <strong>Open Source</strong> <br>
