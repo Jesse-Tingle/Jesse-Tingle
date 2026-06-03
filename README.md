@@ -10,11 +10,11 @@ I'm a full-stack software engineer focused on building practical, user-friendly 
 </span>
 
 <br>
-🌱 Currently Learning:
-      - Advanced React patterns
-      - Backend architecture with Node and Express
-      - PostgreSQL schema design
-      - Building polished full-stack portfolio projects
+🌱 Currently Learning:<br>
+      - Advanced React patterns<br>
+      - Backend architecture with Node and Express<br>
+      - PostgreSQL schema design<br>
+      - Building polished full-stack portfolio projects<br>
 👯 I’m looking to collaborate on <strong>Open Source</strong> <br>
 💻 All of my projects are available at <strong>https://github.com/jesse-tingle</strong> <br>
 📫 How to reach me: <strong>jtingle0@gmail.com</strong> <br>
@@ -40,10 +40,10 @@ Tools:![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-th
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Tingle&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
-## Connect With Me
-- Portfolio: [jessetingle.com](https://www.jessetingle.com)
-- Blog: [jesse-tingle.github.io](https://jesse-tingle.github.io)
-- Email: jtingle0@gmail.com
-- GitHub: [@Jesse-Tingle](https://github.com/Jesse-Tingle)
+## Connect With Me<br>
+- Portfolio: [jessetingle.com](https://www.jessetingle.com)<br>
+- Blog: [jesse-tingle.github.io](https://jesse-tingle.github.io)<br>
+- Email: jtingle0@gmail.com<br>
+- GitHub: [@Jesse-Tingle](https://github.com/Jesse-Tingle)<br>
 
 
