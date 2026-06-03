@@ -41,9 +41,7 @@ Tools:![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-th
 
 <br>
 ## Connect With Me<br>
-- Portfolio: ![jessetingle.com](https://www.jessetingle.com)<br>
-- Blog: ![jesse-tingle.github.io](https://jesse-tingle.github.io)<br>
+- Portfolio: <a href="https://www.jessetingle.com" target="_blank">jessetingle.com</a><br>
+- Blog: <a href="https://jesse-tingle.github.io" target="_blank">https://jesse-tingle.github.io</a><br>
 - Email: jtingle0@gmail.com<br>
-- GitHub: ![@Jesse-Tingle](https://github.com/Jesse-Tingle)<br>
-
-
+- GitHub: <a href="https://github.com/Jesse-Tingle" target="_blank">https://github.com/Jesse-Tingle</a><br>
